@@ -15,4 +15,4 @@ print(f'O país aparece {paises.count(paisPesquisa)} vezes na lista!')
 print(paises.index('Bélgica'))   # Retorna 4
 
 # Mostra na tela booleano indicando se o país existe na tupla
-# print('Holanda' in paises)    # Retorna True
+print('Holanda' in paises)    # Retorna True
